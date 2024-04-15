@@ -13,9 +13,9 @@ Welcome to the ChatFusion GitHub repository! ChatFusion is a powerful online cha
 ## Installation
 
 To get started with ChatFusion, simply clone the repository to your local machine and follow the installation instructions in the README.md file. Make sure you have Python installed on your system.
-
+```
 git clone https://github.com/ChatFusionApp/ChatFusion.git
-
+```
 
 ## Usage
 
